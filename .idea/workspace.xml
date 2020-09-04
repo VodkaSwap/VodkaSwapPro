@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2be5007-3178-4c4d-a7ea-63d4fd4c2d07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="o5iewkdg" />
+  </component>
+  <component name="ProjectId" id="1gsj7mNt3VRLkjucNZOdv4MMJCI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../SushiSwap/MasterChefMain0826.sol" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2be5007-3178-4c4d-a7ea-63d4fd4c2d07" name="Default Changelist" comment="" />
+      <created>1598910028254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598910028254</updated>
+      <workItem from="1598910029373" duration="187000" />
+      <workItem from="1599016550575" duration="3030000" />
+      <workItem from="1599022228064" duration="704000" />
+      <workItem from="1599035822134" duration="2000" />
+      <workItem from="1599043540652" duration="5273000" />
+      <workItem from="1599054207377" duration="387000" />
+      <workItem from="1599099943672" duration="621000" />
+      <workItem from="1599100886801" duration="2775000" />
+      <workItem from="1599194590417" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-244" y="-1401" width="1984" height="1211" key="DiffContextDialog" timestamp="1599108844113">
+      <screen x="-522" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-244" y="-1401" width="1984" height="1211" key="DiffContextDialog/0.23.1440.834/-522.-1417.2560.1417@-522.-1417.2560.1417" timestamp="1599108844113" />
+    <state x="675" y="-966" width="586" height="548" key="find.popup" timestamp="1599101318945">
+      <screen x="-522" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="675" y="-966" width="586" height="548" key="find.popup/0.23.1440.834/-522.-1417.2560.1417@-522.-1417.2560.1417" timestamp="1599101318945" />
+    <state x="675" y="-966" width="586" height="490" key="find.popup/0.23.1440.835/-522.-1417.2560.1417@-522.-1417.2560.1417" timestamp="1599100967991" />
+  </component>
+</project>
